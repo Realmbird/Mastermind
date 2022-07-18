@@ -1,3 +1,5 @@
+# frozen_string_literal: false
+
 # Entire game of Master Mind when initialized starts game
 class MasterMind
   def initialize
